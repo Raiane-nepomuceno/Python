@@ -1,0 +1,27 @@
+#n = s = 0
+#while True :
+    #n = int(input('Num:'))
+    #if n == 999:
+  ##      break
+ #   s+=n
+#print('A soma vale {}'.format(s))
+
+
+---- Jogo do Mário ------
+
+
+capt -> cog,flor,pena,moedas e vida
+grande,capa,fogo,tartaruga,fogo e capa
+cada mud(Mário grande) = 10p
+capa = 20p
+estrela = 30p
+tartaruga = 50p
+fogo e capa  =  60p
+tempo da partida ->num de vidas (5)
+cada 100 p --> ganha 1 vida
+cogumelos verde e verm --> random
+cog verde = -40
+cog verm = -100
+
+----------------------------------------
+

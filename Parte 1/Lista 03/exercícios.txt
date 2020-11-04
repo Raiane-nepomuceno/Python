@@ -1,0 +1,40 @@
+ Exercícios lista 03 
+
+1. Faça um programa que leia dois vetores de 3 posições, que representam forças sobre 
+um ponto no espaço 3D, e escreva a força resultante. 
+Dica: força resultante é obtida pela soma dos valores das coordenadas correspondentes 
+nos dois vetores: (x1 + x2), (y1+ y2), (z1 + z2)
+
+2. Faça um programa que preencha por leitura um vetor de 10 posições, e conta quantos valores
+diferentes existem no vetor.
+
+3. Faça um programa que preencha por leitura um vetor de 5 posições, e informe a posição em que
+um valor x (lido do teclado) está no vetor. Caso o valor x não seja encontrado, o programa deve 
+imprimir o valor -1.
+
+4. Um dado é lançado 50 vezes, e o valor correspondente é armazenado em um vetor. Faça um programa
+que determine o percentual de ocorrências de face 6 do dado dentre esses 50 lançamentos.
+
+5. Faça um programa que leia um vetor vet de 20 posições. O programa deve gerar, a partir do vetor
+lido, um outro vetor pos que contenha apenas os valores inteiros positivos de vet. A partir do vetor pos, 
+deve ser gerado um outro vetor semdup que contenha apenas uma ocorrência de cada valor de pos.
+
+6) Faça um programa que leia dados de temperatura durante uma semana (7 leituras), armazenando em uma lista.
+Após isso, escreva quantos dias dessa semana a temperatura esteve acima da média.
+
+7)Com base no fragmento do código:
+
+if x not in lista_dif:
+    lista_dif.append(x)
+
+pede-se:
+representar a comparação de valores informados pelo usuário e contabilizar os valores diferentes armazenados em uma lista:
+ com o for aninhado
+
+
+
+
+
+
+
+http://dontpad.com/lista03logicaIFSP
